@@ -9,15 +9,15 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: "Home"
+        text: Home
       - href: experience.qmd
-        text: "Experience"
+        text: Experience
       - href: research.qmd
-        text: "Publications & Conference Contributions"
+        text: Publications & Conference Contributions
       - href: volunteer.qmd
-        text: "Volunteer Work"
+        text: Volunteer Work
       - href: blog.qmd
-        text: "Blog"
+        text: Blog
     right:
       - icon: linkedin
         href: https://linkedin.com/in/thilina-withanage
@@ -29,3 +29,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 2
+    smooth-scroll: true
