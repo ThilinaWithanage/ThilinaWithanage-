@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Thilina R. Withanage"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: experience.qmd
+        text: "Experience"
+      - href: research.qmd
+        text: "Research & Publications"
+      - href: teaching.qmd
+        text: "Teaching"
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/thilina-withanage
+      - icon: envelope
+        href: mailto:thilina.withanage@adelaide.edu.au
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

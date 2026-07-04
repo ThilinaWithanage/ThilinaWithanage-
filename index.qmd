@@ -1,0 +1,61 @@
+---
+title: "Thilina R. Withanage"
+image: avatar.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/thilina-withanage
+    - icon: envelope
+      text: Email
+      href: mailto:thilina.withanage@adelaide.edu.au
+---
+
+## About Me
+
+I am a logical, hardworking, and committed statistical researcher and academic currently pursuing a **Doctor of Philosophy (PhD) in Statistics** at the **School of Mathematical Sciences, Adelaide University**.
+
+I am passionate about data-driven problem solving, statistical modelling, teaching, and knowledge sharing. My long-term goal is to contribute to academia through high-quality research, innovative statistical methodologies, and interdisciplinary collaborations.
+
+---
+
+## Research Interests
+
+ **Predictive Outbreak Modelling**  
+  Integrating mathematical and statistical models with field data to improve forecasting of ecological and agricultural pest outbreaks.
+
+ **Time Series Analysis & Forecasting**  
+  Classical, state-space, and structural time series models for economic, environmental, and industrial applications.
+
+ **Computational Statistics & Data Science**  
+  Statistical learning, predictive modelling, Bayesian methods, and reproducible research using **R**, **Python**, and **SAS**.
+
+
+---
+
+## Education
+
+### Doctor of Philosophy (PhD) Student in Statistics and Applied Mathematics
+**School of Mathematical Sciences, Adelaide University, Australia**  
+*April 2026 – Present*
+
+
+
+---
+
+### Bachelor of Science (Honours) in Statistics
+**University of Sri Jayewardenepura, Sri Lanka**  
+*January 2020 – May 2024*
+
+**Degree Classification:** First Class Honours  
+
+**Award:** Professor R. A. Dayananda Gold Medal *(awarded to the First Class student with the highest GPA)*  
+
+**Honours Thesis:** *A Classical Approach to Forecasting the Index of Industrial Production of Sri Lanka*
+
+---
+
+### Diploma in Information Technology
+**University of Colombo School of Computing, Sri Lanka**  
+*2020 – 2021*

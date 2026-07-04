@@ -1,0 +1,70 @@
+---
+title: "Professional Experience"
+---
+
+## Academic Appointments
+
+### Lecturer
+**Department of Science for Technology, Faculty of Technology**  
+*University of Sri Jayewardenepura*  
+*March 2025 – March 2026*
+
+- Delivered undergraduate lectures, prepared course materials, conducted tutorials, and managed assessments and examinations.
+
+- **Semester 1**
+  - ESC/BSC/ISC 1022 – Principles of Statistics
+
+
+- **Semester 2**
+  - ESC 1103 /ISC 1102 - Statistical Methods
+  - ESC 1092 / BSC 1082 / ISC 1092: Mathematics II
+
+### Visiting Lecturer
+
+#### University of Sri Jayewardenepura
+*May 2025 – March 2026*
+
+- **Department of Mathematics, Faculty of Applied Sciences**
+- **Department of Multidisciplinary Studies, Faculty of Urban and Aquatic Bioresources**
+
+#### Institute of Applied Statistics, Sri Lanka (IASSL)
+*November 2024 – Present*
+
+- Delivering lectures and conducting training sessions in statistics and data analysis.
+
+### Teaching Assistant
+**Department of Statistics, Faculty of Applied Sciences**  
+*University of Sri Jayewardenepura*  
+*May 2024 – March 2025*
+
+- Conducted practical sessions and laboratory tutorials.
+- Assisted with assessment, grading, and student support for statistics and statistical programming courses.
+
+---
+
+## Applied Statistical Consulting & Data Science
+
+### Data Scientist Intern
+**Dialog Axiata PLC**  
+*November 2023 – March 2024*
+
+- Developed data-driven workflows and applied predictive modelling techniques to large-scale real-world datasets.
+- Performed data preprocessing, exploratory analysis, and model evaluation to support business decision-making.
+
+### Statistical Consultant
+**Statistical Consultancy Service**  
+*University of Sri Jayewardenepura*
+
+*May 2022 – August 2023*  
+*May 2024 – March 2025*
+
+- Provided statistical consulting for multidisciplinary research projects.
+- Assisted researchers with experimental design, statistical modelling, hypothesis testing, and data analysis.
+- Supported data interpretation and preparation of research outputs.
+
+### Resource Person
+**Citra Lab (United Nations Development Programme – Sri Lanka)**  
+*October 2024 – Present*
+
+- Contributed statistical expertise to data-driven research and strategic initiatives.
+- Collaborated with multidisciplinary teams on evidence-based policy and analytical projects.
