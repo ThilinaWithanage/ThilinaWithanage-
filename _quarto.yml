@@ -13,9 +13,11 @@ website:
       - href: experience.qmd
         text: "Experience"
       - href: research.qmd
-        text: "Research & Publications"
-      - href: teaching.qmd
-        text: "Teaching"
+        text: "Publications & Conference Contributions"
+      - href: volunteer.qmd
+        text: "Volunteer Work"
+      - href: blog.qmd
+        text: "Blog"
     right:
       - icon: linkedin
         href: https://linkedin.com/in/thilina-withanage

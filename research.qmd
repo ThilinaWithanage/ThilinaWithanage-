@@ -1,0 +1,17 @@
+---
+title: "Publications & Conference Contributions"
+---
+
+## Conference Proceedings
+
+- **Withanage, T. R.**, Perera, K. M. P., & Devpura, N. (2024). *An Application of Autoregressive Distributed Lag (ARDL) Model Approach to Forecast the Index of Industrial Production of Sri Lanka*. In **Proceedings of the International Statistics Conference 2024 (ISC 2024)**, Colombo, Sri Lanka.
+
+- Samarakoon, N. G. N. B., Ravisankha, K. K. U., Keerthirathna, P. G. E. T., **Withanage, T. R.**, & Koliyabandara, P. A. (2025). *Factors influencing the willingness to buy electric vehicles among non-EV users in Sri Lanka*. In *Proceedings of the International Conference on Innovation and Emerging Technologies (ICIET 2025)*, University of Sri Jayewardenepura, Sri Lanka. https://www.researchgate.net/publication/398955618_Factors_Influencing_the_Willingness_to_Buy_Electric_Vehicles_among_Non-EV_Users_in_Sri_Lanka
+
+## Conference Organization
+
+- **Track Chair & Session Chair**  
+  Technology Education and Management Track, **Fifth International Conference on Innovation and Emerging Technologies (ICIET 2025)**, organized by the Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka.
+
+- **Member, Organizing Committee**  
+  **International Statistics Conference (ISC 2024)**, organized by the Institute of Applied Statistics, Sri Lanka (IASSL), in collaboration with the University of Sri Jayewardenepura (USJ), Sri Lanka, and Simon Fraser University (SFU), Canada.

@@ -12,21 +12,35 @@ about:
       href: mailto:thilina.withanage@adelaide.edu.au
 ---
 
+
 ## About Me
 
-I am a logical, hardworking, and committed statistical researcher and academic currently pursuing a **Doctor of Philosophy (PhD) in Statistics** at the **School of Mathematical Sciences, Adelaide University**.
+I am a **Doctor of Philosophy (PhD) candidate in Statistics** at the **School of Mathematical Sciences, Adelaide University**. My research sits at the intersection of **statistics, data science, and ecology**, where I develop models that help translate complex environmental data into meaningful predictions.
 
-I am passionate about data-driven problem solving, statistical modelling, teaching, and knowledge sharing. My long-term goal is to contribute to academia through high-quality research, innovative statistical methodologies, and interdisciplinary collaborations.
+Currently, I am working under the supervision of **A/Prof Ed Green**, **Dr John Maclean**, and **Dr Camille Buhl** on a project focused on **predicting pest outbreaks in Australia**. This work combines statistical and mathematical modelling to better understand ecological dynamics and improve forecasting accuracy.
+
+My research is part of the *Analytics for the Australian Grains Industry (AAGI)* initiative,a five-year strategic partnership between **Adelaide University** and the **Grains Research and Development Corporation (GRDC)**. The project aims to harness advanced analytics to enhance the profitability, sustainability, and global competitiveness of the Australian grains sector.
+
+
+I am passionate about **data-driven problem solving**, **statistical modelling**, **teaching**, and **knowledge sharing**. I enjoy working on problems where statistical thinking can create meaningful impact across disciplines.
+
+
+## Inspiration
+
+> “The best thing about being a statistician is that you get to play in everyone’s backyard.”  
+> — John Tukey
+
+This philosophy strongly shapes my academic journey. It has encouraged me to embrace **interdisciplinary research**, working across domains such as **agriculture, ecology, economics, and health**, where statistical thinking can provide valuable insight and solutions.
 
 ---
 
 ## Research Interests
 
- **Predictive Outbreak Modelling**  
+ **Predictive Modelling**  
   Integrating mathematical and statistical models with field data to improve forecasting of ecological and agricultural pest outbreaks.
 
  **Time Series Analysis & Forecasting**  
-  Classical, state-space, and structural time series models for economic, environmental, and industrial applications.
+  Classical, state-space, and structural time series models for economics, environmental, and industrial applications.
 
  **Computational Statistics & Data Science**  
   Statistical learning, predictive modelling, Bayesian methods, and reproducible research using **R**, **Python**, and **SAS**.
