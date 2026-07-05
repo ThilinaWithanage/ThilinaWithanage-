@@ -1,84 +1,18 @@
 ---
-title: "Professional Experience"
+  title: "Blog"
 ---
+  
+::: {.grid}
 
-## Academic Engagement & Teaching
-### Lecturer
+::: {.g-col-6}
 
-**Department of Science for Technology, Faculty of Technology**  
-*University of Sri Jayewardenepura*  
-*March 2025 – March 2026*
+![](invasive.png)
 
+### Invasive Species in Australia  
+A short guide for travellers about biosecurity risks.
 
-- **Semester 1**
-  - ESC/BSC/ISC 1022 – Principles of Statistics
+[Read article](https://medium.com/@thilinawithanage4/invasive-species-in-australia-what-every-traveller-should-know-7d918749933e)
 
-
-- **Semester 2**
-  - ESC 1103 /ISC 1102 - Statistical Methods
-  - ESC 1092 / BSC 1082 / ISC 1092: Mathematics II
-
-### Visiting Lecturer
-
-#### University of Sri Jayewardenepura
-*May 2025 – March 2026*
-
-- Department of Mathematics, Faculty of Applied Sciences
-  - MAN 3022.0 – Forecasting
-
-- Department of Multidisciplinary Studies, Faculty of Urban and Aquatic Bioresources
-  - MS4333 – Applied Statistics
-  - MDS3228 – Experimental Methods and Statistical Tools
-
-#### Institute of Applied Statistics, Sri Lanka (IASSL)
-*November 2024 – March 2026*
-
-- CAS 106 Basics In SPSS (Introduction to SPSS)
-- Supervsing Research Students
-
-### Teaching Assistant
-**Department of Statistics, Faculty of Applied Sciences**  
-*University of Sri Jayewardenepura*  
-*May 2024 – March 2025*
-
-- Conducted practical sessions and laboratory tutorials.
-- Assisted with assessment, grading, and student support for statistics and statistical programming courses.
-
----
-
-## Industry Engagement
-
-
-### Statistical Consultant
-**FarmLink- Sri Lanka **  
-*December 2025 – Present*
-
-- Investigating vegetable price dynamics in the Sri Lankan market and forecasting future prices
-
-
-### Statistical Consultant
-**Statistical Consultancy Service**  
-*University of Sri Jayewardenepura*
-
-*May 2022 – August 2023*  
-*May 2024 – March 2025*
-
-- Provided statistical consulting for multidisciplinary research projects.
-- Assisted researchers with experimental design, statistical modelling, hypothesis testing, and data analysis.
-- Supported data interpretation and preparation of research outputs.
-
-
-### Resource Person
-**Citra Lab (United Nations Development Programme – Sri Lanka)**  
-*October 2024 – Present*
-
-- Contributed statistical expertise to data-driven research and strategic initiatives.
-- Collaborated with multidisciplinary teams on evidence-based policy and analytical projects.
-
-### Data Scientist Intern
-**Dialog Axiata PLC**  
-*November 2023 – March 2024*
-
-- Developed data-driven workflows and applied predictive modelling techniques to large-scale real-world datasets.
-- Performed data preprocessing, exploratory analysis, and model evaluation to support business decision-making.
-
+:::
+  
+:::

@@ -1,18 +1,26 @@
 ---
-title: "Blog"
+title: "Volunteer Work"
 ---
 
-::: {.grid}
+## Professional Memberships
 
-::: {.g-col-6}
+**Institute of Applied Statistics, Sri Lanka (IASSL)** — Life Member
 
-![](invasive.png)
+- Member, Research and Development Committee (2025–2026)  
+  - Contributed to ongoing applied research initiatives, including the development of a rugby ranking system for Sri Lankan rugby.
+  - Managed the coordination of the IASSL Best Research Awards (2026)
 
-### Invasive Species in Australia  
-A short guide for travellers about biosecurity risks.
+- Member, Statistical Popularization Committee (2025–2026)  
+  Contributed to national-level statistical outreach and education activities, including:
+  - Stat Retreat, Sri Lanka’s first residential camp for undergraduate students in statistics
+  - Delivery of educational seminars for G.C.E. Advanced Level students across Sri Lanka, promoting statistical thinking and awareness of higher education opportunities
+  - Organization and support of the Statistics Olympiad 2026
+  
+  
+## Workshops & Training Activities
 
-[Read article](https://medium.com/@thilinawithanage4/invasive-species-in-australia-what-every-traveller-should-know-7d918749933e)
+- Conducted interdisciplinary research workshops in collaboration with **Whyteleafe Performing Arts Academy**, supporting the integration of data literacy within creative education contexts for school students.
 
-:::
+- Delivered SPSS training workshops for BSc (Hons) Applied Science students, Faculty of Applied Sciences, University of Sri Jayewardenepura, focusing on applied statistical analysis and software-based data interpretation.
 
-:::
+- Conducted webinars for students in the Department of Statistics, University of Sri Jayewardenepura, highlighting higher education opportunities and academic pathways in statistics.
